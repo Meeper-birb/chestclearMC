@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+[[mods]]
+modId="clearrenderchests"
+version="1.0.0"
+displayName="Clear Render Chests"
+description='Adds /clearnearbychests to empty nearby loaded chest inventories.'
